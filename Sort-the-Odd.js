@@ -1,3 +1,5 @@
+// Author: Michael K. Jones
+
 // Version 1
 //////////////////////////////
 // function sortArray(array) {
